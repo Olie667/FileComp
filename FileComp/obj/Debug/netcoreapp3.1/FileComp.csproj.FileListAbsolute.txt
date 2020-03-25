@@ -1,0 +1,13 @@
+C:\Users\Martin\source\repos\FileComp\FileComp\bin\Debug\netcoreapp3.1\FileComp.exe
+C:\Users\Martin\source\repos\FileComp\FileComp\bin\Debug\netcoreapp3.1\FileComp.deps.json
+C:\Users\Martin\source\repos\FileComp\FileComp\bin\Debug\netcoreapp3.1\FileComp.runtimeconfig.json
+C:\Users\Martin\source\repos\FileComp\FileComp\bin\Debug\netcoreapp3.1\FileComp.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\FileComp\FileComp\bin\Debug\netcoreapp3.1\FileComp.dll
+C:\Users\Martin\source\repos\FileComp\FileComp\bin\Debug\netcoreapp3.1\FileComp.pdb
+C:\Users\Martin\source\repos\FileComp\FileComp\obj\Debug\netcoreapp3.1\FileComp.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\FileComp\FileComp\obj\Debug\netcoreapp3.1\FileComp.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\FileComp\FileComp\obj\Debug\netcoreapp3.1\FileComp.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\FileComp\FileComp\obj\Debug\netcoreapp3.1\FileComp.AssemblyInfo.cs
+C:\Users\Martin\source\repos\FileComp\FileComp\obj\Debug\netcoreapp3.1\FileComp.dll
+C:\Users\Martin\source\repos\FileComp\FileComp\obj\Debug\netcoreapp3.1\FileComp.pdb
+C:\Users\Martin\source\repos\FileComp\FileComp\obj\Debug\netcoreapp3.1\FileComp.genruntimeconfig.cache
